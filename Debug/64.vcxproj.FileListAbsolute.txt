@@ -1,0 +1,2 @@
+D:\C++ test\Курсач\64\Debug\64.exe
+D:\C++ test\Курсач\64\Debug\64.pdb
